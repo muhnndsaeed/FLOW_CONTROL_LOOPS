@@ -11,4 +11,3 @@ for number in range(45,210):
     
 
 
-لهف
